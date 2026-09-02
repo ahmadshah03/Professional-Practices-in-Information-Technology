@@ -53,5 +53,9 @@ workflow:
 - Main branch contains only reviewed code
 
 ## Author
+## Accessibility Testing Tools
 
+- WAVE (wave.webaim.org) — visual audit
+- axe DevTools — browser extension
+- Lighthouse — built into Chrome DevTools
 UC0132 | EduQual Level 5 | CS406 | 2026
